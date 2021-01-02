@@ -23,7 +23,7 @@ default).
 
 `Indian_license_plate.xml` : cascaded file for indian license plates <br>
 `Test_on_Image` : A sample code for understanding how every frame image extracted <br>
-`from the video` is processed to generate the license plate numbers. <br>
+from the video is processed to generate the license plate numbers. <br>
 `Detect` : The file to detect license plates from a video file.
 Paste the file path in the variable cap. <br>
 `Dataset_builder` : For next version of YOLOv3, this dataset was constructed to be fed
