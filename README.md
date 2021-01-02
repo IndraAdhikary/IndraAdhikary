@@ -28,5 +28,3 @@ from the video is processed to generate the license plate numbers.
 Paste the file path in the variable cap. <br>
 `Dataset_builder` : For next version of YOLOv3, this dataset was constructed to be fed
 into the pretrained mobile model. <br>
-`Ssd_mobilenet_v3_large_coco_2019_08_14.tar` : Pretrained YOLOv3 model on
-coco-dataset. <br>
